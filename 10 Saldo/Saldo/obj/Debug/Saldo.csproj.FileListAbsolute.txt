@@ -1,0 +1,20 @@
+C:\Users\Priscilla\source\repos\Saldo\Saldo\bin\Debug\Saldo.exe.config
+C:\Users\Priscilla\source\repos\Saldo\Saldo\bin\Debug\Saldo.exe
+C:\Users\Priscilla\source\repos\Saldo\Saldo\bin\Debug\Saldo.pdb
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.frmPrincipal.resources
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.exe
+C:\Users\Priscilla\source\repos\Saldo\Saldo\obj\Debug\Saldo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\bin\Debug\Saldo.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\bin\Debug\Saldo.exe
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\bin\Debug\Saldo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.frmPrincipal.resources
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.exe
+C:\Users\Priscilla\Desktop\Treino POO\10 Saldo\Saldo\obj\Debug\Saldo.pdb
